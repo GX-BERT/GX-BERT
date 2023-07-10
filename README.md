@@ -17,6 +17,3 @@
 
 The data relating to the promoters, half-life features and median gene expression levels are available thanks to the following publication:
  - Agarwal V, Shendure J. [Predicting mRNA abundance directly from genomic sequence using deep convolutional neural networks](https://www.cell.com/cell-reports/pdf/S2211-1247(20)30616-1.pdf). 2020. Cell Reports 31 (7), 107663
-
-  
-"# GX-BERT" 
