@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549CLS_head1.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549CLS_head2.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549CLS_head3.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549CLS_head4.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549CLS_mean.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549gradient_x_input.txt
+https://raw.githubusercontent.com/GX-BERT/GX-BERT/main/GX-BERT_attention_track_example/GX-BERT_CTB_65k_median/ENSG00000132549/ENSG00000132549mean_att.txt
